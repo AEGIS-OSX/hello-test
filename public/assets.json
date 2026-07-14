@@ -1,37 +1,37 @@
 {
   "logo": {
-    "url": "",
-    "alt": "",
+    "url": "https://zkvkbpxrxnfynqqeytke.supabase.co/storage/v1/object/public/marketing-assets/hello-test/cleo/1784047470154-logo.png",
+    "alt": "A minimalist, flat vector wordmark for 'Hello' using a light-weight serif stack. The design prioritizes restraint and quiet confidence, utilizing the #1A1A18 near-black type against a #FAFAF9 warm off",
     "width": 1024,
     "height": 1024
   },
   "hero": {
-    "url": "",
-    "alt": "",
+    "url": "https://zkvkbpxrxnfynqqeytke.supabase.co/storage/v1/object/public/marketing-assets/hello-test/cleo/1784047345903-hero.png",
+    "alt": "A minimalist macro shot of the word 'Hello' letterpressed onto heavy-weight #FAFAF9 cotton paper. The image uses tactile texture and soft 3200K lighting to convey the 'quiet proof' mood requested in t",
     "width": 1920,
     "height": 1080
   },
   "feature_1": {
-    "url": "",
-    "alt": "",
+    "url": "https://zkvkbpxrxnfynqqeytke.supabase.co/storage/v1/object/public/marketing-assets/hello-test/cleo/1784047335407-feature_1.png",
+    "alt": "A minimalist, high-texture shot of a blank sheet of warm off-white paper on a clean desk, embodying the 'quiet proof' and 'restraint' requested in the creative direction. The image uses natural 5600K ",
     "width": 800,
     "height": 600
   },
   "feature_2": {
-    "url": "",
-    "alt": "",
+    "url": "https://zkvkbpxrxnfynqqeytke.supabase.co/storage/v1/object/public/marketing-assets/hello-test/cleo/1784047332360-feature_2.png",
+    "alt": "A minimalist high-angle shot of a single cream paper sheet and a black pen, capturing the 'quiet proof' and 'restraint' requested in the creative direction through extreme simplicity and soft 5600K li",
     "width": 800,
     "height": 600
   },
   "feature_3": {
-    "url": "",
-    "alt": "",
+    "url": "https://zkvkbpxrxnfynqqeytke.supabase.co/storage/v1/object/public/marketing-assets/hello-test/cleo/1784047335923-feature_3.png",
+    "alt": "A minimalist composition featuring a single sheet of heavy-weight cream paper on a warm desk, capturing the 'quiet proof' and 'restraint' requested in the creative direction. The image uses natural 56",
     "width": 800,
     "height": 600
   },
   "social_proof": {
-    "url": "",
-    "alt": "",
+    "url": "https://zkvkbpxrxnfynqqeytke.supabase.co/storage/v1/object/public/marketing-assets/hello-test/cleo/1784047583212-social_proof.png",
+    "alt": "A minimalist top-down shot of a heavy-weight archival paper sheet in #FAFAF9 on a warm matte surface. It captures the 'quiet proof' mood and palette restraint of the creative direction without adding ",
     "width": 1200,
     "height": 800
   }
